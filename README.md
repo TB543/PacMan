@@ -19,7 +19,7 @@ A simple clone of the classic **Pac-Man** arcade game built using **Python** and
 
 ## 🚀 How to Run
 
-1. Make sure you have **Python 3.x** installed.
+1. Make sure you have **Python 3** installed.
 2. Clone or download the project files.
 3. Run the main Python script:
    ```bash
